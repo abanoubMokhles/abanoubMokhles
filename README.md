@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abanoubMokhles
 - 👀 I’m interested in 👨‍💻 front-end web development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning React Native
 - 📫 You can reach me at 📧 mokhles.abanoub1@gmail.com
 
 <!---

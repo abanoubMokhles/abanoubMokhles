@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abanoubMokhles
-- 👀 I’m interested in 👨‍💻 front-end web development
+- 👀 I’m interested in 👨‍💻 Software Development.
 - 🌱 I’m currently learning C++, Data Structures, and Algorithms.
 - 📫 You can reach me at 📧 mokhles.abanoub1@gmail.com
 
